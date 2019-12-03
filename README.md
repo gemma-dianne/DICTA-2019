@@ -1,0 +1,3 @@
+Gemma Dianne conference presentation slides and poster for DICTA 2019 in Perth, Australia.  
+
+The International Conference on Digital Image Computing: Techniques and Applications (DICTA) is the main Australian Conference on computer vision, image processing, pattern recognition, and related areas. DICTA was established in 1991 as the premier conference of the Australian Pattern Recognition Society (APRS).
